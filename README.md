@@ -1,2 +1,3 @@
-# krishjhawalta.github.com
-How to install&amp;run TOR Servics in Raspbian/Linux
+# How to install & Run Tor services in Raspbian/Linux
+Install TOR >$Sudo apt-get update&&upgrade
+            
